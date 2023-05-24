@@ -147,7 +147,7 @@ section {
     padding-bottom: 1rem;
 }
 .under {
-    border-bottom: 0.4rem solid var(--base-color);
+    border-bottom: 0.3rem solid var(--base-color);
     padding:0 1rem 0.3rem 1rem;
 }
 .center {
