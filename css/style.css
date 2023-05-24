@@ -87,6 +87,7 @@ nav ul {
 .header li {
 	padding-top: 0;
 }
+
 /* スマホ時はMENUボタンを表示 */
 #open {
     display: block;
@@ -235,3 +236,15 @@ footer h4 {
 	display: block;
 }
 }
+
+/* ロゴ設定 */
+.header a#logo-link {
+    display: block;
+    max-width: 30%;
+}
+
+.header img#logo {
+    width: 100%;
+    height: auto;
+}
+
