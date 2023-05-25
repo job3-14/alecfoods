@@ -248,3 +248,8 @@ footer h4 {
     height: auto;
 }
 
+.left {
+	text-align: left;
+	margin-bottom: 4rem;
+}
+
