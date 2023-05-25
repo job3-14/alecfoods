@@ -248,8 +248,19 @@ footer h4 {
     height: auto;
 }
 
+
+/*追加*/
+
 .left {
 	text-align: left;
 	margin-bottom: 4rem;
 }
 
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.table-centor{
+    margin: auto;
+}
